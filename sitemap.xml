@@ -2,37 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
      <loc>http://docs.nebula-graph.io/</loc>
-     <lastmod>2019-07-18</lastmod>
+     <lastmod>2019-07-19</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>http://docs.nebula-graph.io/get-started/</loc>
-     <lastmod>2019-07-18</lastmod>
+     <lastmod>2019-07-19</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>http://docs.nebula-graph.io/nGQL-tutorial/</loc>
-     <lastmod>2019-07-18</lastmod>
+     <lastmod>2019-07-19</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>http://docs.nebula-graph.io/how-to-contribute/</loc>
-     <lastmod>2019-07-18</lastmod>
+     <lastmod>2019-07-19</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>http://docs.nebula-graph.io/developer-documentation-style-guide/</loc>
-     <lastmod>2019-07-18</lastmod>
+     <lastmod>2019-07-19</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>http://docs.nebula-graph.io/contribute-to-documentation/</loc>
-     <lastmod>2019-07-18</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc></loc>
-     
+     <lastmod>2019-07-19</lastmod>
      <changefreq>daily</changefreq>
     </url>
 </urlset>
